@@ -4,7 +4,7 @@
 Este proyecto consiste en la detección de cardiopatías en pacientes mediante el uso de datos clínicos utilizando técnicas de Machine Learning y Deep Learning. 
 
 ## Estructura del proyecto
-Los archivos y carpetas relevantes del proyecto se encuentran en la carpeta "FinalProject_AI".
+Los archivos y carpetas relevantes del proyecto son los siguientes:".
 
 - "code.ipynb": este archivo contiene el código del proyecto, donde se realiza el análisis exploratorio de los datos, se preprocesan y se entrenan diferentes modelos de ML y DL para predecir la presencia de enfermedad cardíaca en los pacientes.
 
